@@ -8,7 +8,7 @@ Game::Game()
 	m_circle{40.0f}
 {	
 	m_circle.setPosition(100.f, 100.f);
-	m_circle.setFillColor(sf::Color::Green);
+	m_circle.setFillColor(sf::Color::Blue);
 }
 
 void Game::run()
